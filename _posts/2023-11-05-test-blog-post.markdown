@@ -1,10 +1,11 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2023-11-06 07:31:23 -0800
+title:  "Test Blog Post"
+date:   2023-11-05 07:31:23 -0800
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+
+This is a test blog post. You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 Jekyll requires blog post files to be named according to the following format:
 
@@ -15,8 +16,8 @@ Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit number
 Jekyll also offers powerful support for code snippets:
 
 {% highlight java %}
-public void printHi(String name) {
-  System.out.println("Hi, " + name);
+public void printTest() {
+  System.out.println("This is a test.");
 }
 {% endhighlight %}
 
