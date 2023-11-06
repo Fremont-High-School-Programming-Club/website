@@ -24,8 +24,8 @@ description: >- # this means to ignore newlines until "baseurl:"
     We are the Fremont High School Programming Club, a group of students who are 
     interested in learning more about computer science and programming. We are 
     open to all students, regardless of experience level. We hope to see you there!
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/website" # the subpath of your site, e.g. /blog
+url: "https://fremont-high-school-programming-club.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  Fremont-High-School-Programming-Club
 
